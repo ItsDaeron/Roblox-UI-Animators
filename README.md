@@ -1,2 +1,2 @@
 # Roblox-UI-Animators
-multiple module scripts that handle UI being animated (no documentation yet for it)
+multiple module scripts that handle UI like animations and fixing some issues (no documentation yet for it)
