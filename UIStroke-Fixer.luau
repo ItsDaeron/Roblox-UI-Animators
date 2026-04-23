@@ -4,7 +4,7 @@
 local _Workspace = game:GetService("Workspace")
 
 -->> Variables
-local defaultSize = Vector2.new(1920, 1080) -- set this to the screen resolution at which the UI was designed to work on the script will fix the UI strokes when the resolution changes
+local defaultSize = Vector2.new(1920, 1080) -- set this to the screen resolution at which the UI was designed to work on. the script will fix the UI strokes when the resolution changes
 local lastSize = nil
 
 -->> Functions
